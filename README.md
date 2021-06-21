@@ -1,4 +1,13 @@
-## RECIPE GENERATOR 
+## RECIPE GENERATOR using ReactJS and Flask
+
+The goal of this project is to recommend recipes to users based on the ingredients provided as input, that is, ingredients that they currently have on hand.
+
+We provide the user with two options:
+
+1. The user can search for recipes based on ingredients. The user is provided with a few recipes out of which they can favourite the one they like.
+2. Based on the favorite recipe we recommend recipes to users using Content Based Filtering.
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
